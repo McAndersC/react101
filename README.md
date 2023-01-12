@@ -1,2 +1,2 @@
 # react101
-En legeplads til at teste eksempler fre reactjs.org
+En legeplads til at teste eksempler fra reactjs.org
